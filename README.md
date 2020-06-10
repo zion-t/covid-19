@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
   <title>COVID-19</title>
