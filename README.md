@@ -1,6 +1,5 @@
 <html>
 <head>
-  <title>COVID-19</title>
   <meta charset="utf-8">
 </head>
 <body>
